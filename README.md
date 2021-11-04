@@ -1,14 +1,6 @@
-# Webpack satrter
+# Aplicacion ToDo
 
-Este es un proyecto inicial para crear futuros proyectos usando webpack.
+Este es un proyecto de listas de tareas por hacer, donde se pueden agregar tareas, marcar tareas completadas, elminar tareas y filtrar las tareas para ver completadas o pendientes.
 
 ### Notas:
-Recuerden reconstruir los modulos de Node
-
-``` 
-npm install
-```
-Y para reconstruir el build: 
-``` 
-npm run build
-```
+No hay notas :D
